@@ -14,7 +14,7 @@
 ## Deploying
 
 ### Deploy on [Heroku](https://heroku.com)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IDN-C-X/IDN-GDrive-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/coderparv/gdrive)
 
 ### Installation
 - Install required modules.
